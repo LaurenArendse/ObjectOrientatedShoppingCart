@@ -1,0 +1,12 @@
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.deps.json
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.AssemblyReference.cache
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfo.cs
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.dll
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\refint\ShoppingLibrary.dll
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.pdb
+C:\exercises\repos\ObjectOrientatedShoppingCart\ShoppingApplicationSln\ShoppingLibrary\obj\Debug\net5.0\ref\ShoppingLibrary.dll
